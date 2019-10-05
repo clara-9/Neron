@@ -1,0 +1,9 @@
+Hem
+WCC,180
+RBC,1000
+Hem,10
+VCM,1.2
+Bio
+Glu,130
+Ure,0.6
+
