@@ -1,9 +1,11 @@
+MartaRodriguez,2019,10,7,15,35,
 Hem
-WCC,180
+WCC,2000
 RBC,1000
-Hem,10
+Hmo,10
 VCM,1.2
 Bio
 Glu,130
 Ure,0.6
-
+Cre,90
+LDL,131
