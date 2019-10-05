@@ -1,0 +1,11 @@
+NuriaAbert,2019,9,5,7,43,
+Hem
+WCC,2500
+RBC,3673002
+Hmo,13.4
+VCM,85
+Bio
+Glu,56
+Ure,1.6
+Cre,110
+LDL,67

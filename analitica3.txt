@@ -1,0 +1,11 @@
+JoanLuna,2019,10,5,18,43,
+Hem
+WCC,80000
+RBC,5673002
+Hmo,13.4
+VCM,85
+Bio
+Glu,56
+Ure,1.6
+Cre,95
+LDL,67
