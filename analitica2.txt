@@ -1,0 +1,11 @@
+MonicaLimon,2019,10,5,18,43,
+Hem
+WCC,3600
+RBC,4900000
+Hmo,13.4
+VCM,75
+Bio
+Glu,100
+Ure,0.7
+Cre,95
+LDL,345
