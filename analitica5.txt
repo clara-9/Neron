@@ -5,8 +5,8 @@ RBC,4873002
 Hmo,16.2
 VCM,95
 Bio
-Glu,56
-Ure,1.6
+Glu,76
+Ure,1.4
 Cre,110
 LDL,84
 Car
