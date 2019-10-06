@@ -1,0 +1,14 @@
+GeorgeStokes,2019,9,31,13,23,
+Hem
+WCC,3560
+RBC,4873002
+Hmo,16.2
+VCM,95
+Bio
+Glu,56
+Ure,1.6
+Cre,110
+LDL,84
+Car
+Sat,99
+RPM,92
