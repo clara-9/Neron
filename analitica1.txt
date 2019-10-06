@@ -1,9 +1,9 @@
 MartaRodriguez,2019,10,7,15,35,
 Hem
-WCC,2000
-RBC,1000
+WCC,2000 
+RBC,7000000
 Hmo,10
-VCM,1.2
+VCM,120 
 Bio
 Glu,130
 Ure,0.6
