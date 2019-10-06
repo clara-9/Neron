@@ -9,3 +9,8 @@ Glu,56
 Ure,1.6
 Cre,110
 LDL,67
+Ori
+Cet,3
+Nit,0
+Pro,23
+Bac,6
