@@ -9,3 +9,6 @@ Glu,100
 Ure,0.7
 Cre,95
 LDL,345
+Car
+RPM,200
+Sat,98
