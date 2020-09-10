@@ -2,4 +2,4 @@
 Patient prioritisation
 
 
-A MamutHack project.
+A MamutHack project. (2019)
